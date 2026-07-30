@@ -1,4 +1,4 @@
-# Data-analytics-apprenticeship# Data Analytics Apprenticeship
+# Data Analytics Apprenticeship
 
 Instructor: ChatGPT
 
