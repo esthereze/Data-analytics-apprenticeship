@@ -15,10 +15,10 @@ Become a freelance Data Analyst specializing in:
 
 ## Current Phase
 
-Business Thinking
+Business Thinking and Analytical mindset
 
 ## Progress
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
