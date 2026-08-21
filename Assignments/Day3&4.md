@@ -1,4 +1,4 @@
-## YOUR COMBINED DAY 3 + 4 ASSIGNMENT -- By Chatgpt
+# YOUR COMBINED DAY 3 + 4 ASSIGNMENT -- By Chatgpt
 
 I want you to submit one complete piece of work.
 
