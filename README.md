@@ -16,6 +16,7 @@ Become a freelance Data Analyst specializing in:
 ## Current Phase
 
 Business Thinking and Analytical mindset
+Excel currently
 
 ## Progress
 
